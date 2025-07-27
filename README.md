@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection using Gradient Boosting
 
 A complete **end-to-end ML pipeline** using **XGBoost within sklearn pipelines** to detect credit card fraud, featuring:
-
+![SS](SS.png)
 ✅ Clean pipeline structure  
 ✅ Hyperparameter tuning with `RandomizedSearchCV`  
 ✅ SHAP-based interpretability (optional)  
